@@ -7,7 +7,7 @@ a {
   color: forestgreen;
 }
 .weather-app {
-  background: white;
+  background: #8c66d9;
   max-width: 600px;
   margin: 45px auto;
   box-shadow: 0 30 px 50 px rgba(65, 50, 100, 0.08);
@@ -30,13 +30,13 @@ header {
 }
 
 .search-form-button {
-  background: aquamarine;
+  background: #f65282;
   padding: 15px 30px;
   border: none;
   font-size: 16px;
   margin-left: 5px;
   border-radius: 6px;
-  color: forestgreen;
+  color: #8c66d9;
 }
 
 main {
