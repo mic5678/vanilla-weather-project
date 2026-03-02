@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: forestgreen;
+  color: #f65282;
 }
 .weather-app {
   background: #8c66d9;
@@ -55,7 +55,7 @@ main {
 
 .weather-app-details {
   font-size: 16px;
-  color: rgba(39, 33, 66, 0.4);
+  color: rgba(3, 2, 6, 0.4);
   line-height: 24px;
   font-weight: 500;
 }
